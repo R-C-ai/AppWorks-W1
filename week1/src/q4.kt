@@ -1,4 +1,4 @@
-class Human (var name:String){
+open class Human (var name:String){
     open val mana: Boolean = false; //q6
     open fun attack(){ //q5
         println("$name use First Attack!")
