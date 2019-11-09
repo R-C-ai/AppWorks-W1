@@ -1,0 +1,16 @@
+Q1 
+  a.correct.    Assign id is 9527
+  b.not.        5.6 is float
+  c.correct.    Assign  title is variable, Initial value is "Hello Kotlin!"
+  d.not.        string can't be null
+  e.correct.    556.6 is Double
+  f.not.        List<String> can't be null,it should be corrected to List<String?>
+  g.corret.     "Wayne","Chen" is string
+  h.not.        list doesn't be assigned 
+  i.correct     list? can be null
+
+Q2. c  your grace.  The length of message is 32, so it will print "your grace"
+
+Q3. d   Assign a array with 6 parameters,
+        the value of each parmeter is 1000-based index from zero for 6 loops. 
+        Print out the long value parmeters with the string in order.
